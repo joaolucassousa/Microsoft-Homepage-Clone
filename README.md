@@ -1,7 +1,7 @@
 # Clone da Página Inicial da Microsoft em HTML, CSS e JS
 
   <h2>Sobre o Projeto</h2>
-  <p>O objetivo deste projeto é praticar e aprimorar minhas habilidades em desenvolvimento web, usando tecnologias fundamentais como HTML, CSS e JavaScript. Neste repositório, você encontrará os arquivos necessários para replicar a página inicial da Microsoft, incluindo o HTML estrutural, os estilos CSS e as interações em JavaScript.</p>
+  <p>O objetivo deste projeto é praticar e aprimorar minhas habilidades em desenvolvimento web, usando tecnologias fundamentais como HTML, CSS e JavaScript. Neste repositório você encontrará os arquivos necessários para replicar a página inicial da Microsoft, incluindo o HTML estrutural, os estilos CSS e as interações em JavaScript.</p>
   <br>
 <img src="preview-microsoft-homepage-clone.jpeg" alt=""/>
 
